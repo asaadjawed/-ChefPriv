@@ -66,6 +66,7 @@ export const Categories = () => {
                       justifyContent: "center",
                       alignItems: "center",
                       bottom: 30,
+                      padding: 10,
                     }}
                   >
                     <h2 className="text-white font-normal text-4xl">
